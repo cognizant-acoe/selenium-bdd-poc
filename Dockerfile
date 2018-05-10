@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Avijit Samanta
+MAINTAINER Avijit Samant
 
 # Update and install s/w
 RUN apt-get update
